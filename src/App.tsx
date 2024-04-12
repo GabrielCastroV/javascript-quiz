@@ -1,5 +1,5 @@
 import { Container, Stack, Typography } from '@mui/material';
-import './App.css';
+import './styles/App.css';
 import { JavascriptLogo } from './components/JavascriptLogo';
 import { Start } from './components/Start';
 import { useQuestionsStore } from './store/questions';
